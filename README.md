@@ -1,3 +1,3 @@
-# Jupyter Kaggle
+# House Prices
 
-This repository provides a python environment using Jupyterlab for Kaggle competitions.
+House prices competition on Kaggle
